@@ -37,18 +37,6 @@ You can reach me at: [sharmasameeksha582@gmail.com](mailto:sharmasameeksha582@gm
 - IEEE Student Member Community
 
 ---
-
-### 🌐 Connect with Me
-[!LinkedIn](https://linkedin.com/in/sameeksha-sharma2004)
-
-### 📊 My Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sameeksha2100434&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF) <br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeksha2100434&theme=react&show_icons=true&locale=en) <br>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sameeksha2100434&theme=algolia)
-
----
-
 ### 🛠️ Languages and Tools
 <p>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
@@ -66,4 +54,16 @@ You can reach me at: [sharmasameeksha582@gmail.com](mailto:sharmasameeksha582@gm
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   </p>
+
+### 🌐 Connect with Me
+[!LinkedIn](https://linkedin.com/in/sameeksha-sharma2004)
+
+### 📊 My Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sameeksha2100434&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF) <br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeksha2100434&theme=react&show_icons=true&locale=en) <br>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sameeksha2100434&theme=algolia)
+
+---
+
 
