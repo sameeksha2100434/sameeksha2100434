@@ -56,7 +56,9 @@ You can reach me at: [sharmasameeksha582@gmail.com](mailto:sharmasameeksha582@gm
   </p>
 
 ### 🌐 Connect with Me
-[!LinkedIn](https://linkedin.com/in/sameeksha-sharma2004)
+<p align="left">
+<a href="https://linkedin.com/in/sameeksha-sharma2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sameeksha Sharma" height="30" width="40" /></a>
+
 
 ### 📊 My Stats
 
