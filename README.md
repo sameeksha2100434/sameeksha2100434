@@ -1,3 +1,5 @@
+<img align="center" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sameeksha+Sharma;+Sanskriti+University;Bachelors+of+Computer+Science+And+Engineering;+with+Specialzation+in+AI+and+ML)](https://git.io/typing-svg)
 
 <h3 align="center">Full Stack Developer | Data Analyst | Problem Solver | Quick Learner</h3>
@@ -29,14 +31,6 @@ You can reach me at: [sharmasameeksha582@gmail.com](mailto:sharmasameeksha582@gm
 - **Visualization**: Tableau, Excel
 - **Soft Skills**: Critical Thinking, Presentation, Communication Skills
 
-### 📜 Certifications
-- Python | Data Structures & Algorithms by Coding Ninjas
-- Data Mining and Analysis using Python by TCSion
-- Java | Data Structures & Algorithms by Apna College
-- Complete Wordpress website developer course by Udemy
-- IEEE Student Member Community
-
----
 ### 🛠️ Languages and Tools
 <p>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/</a>
