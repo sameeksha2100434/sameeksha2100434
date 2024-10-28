@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksha2100434&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 ### 🎓 Education
-Currently pursuing a **B.Tech in Computer Science Engineering** with a specialization in **AI & ML** at **Sanskriti University**. Expected graduation in **May 2025**.
+Currently pursuing **B.Tech in Computer Science Engineering** with a specialization in **AI & ML** at **Sanskriti University**. Expected graduation in **May 2025**.
 
 ### 🌱 Currently Learning
 - Mobile Application Development
